@@ -255,6 +255,8 @@ CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 
 
 广东频道,#genre#
+
+广东珠江,webview://https://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
