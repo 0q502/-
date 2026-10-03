@@ -215,6 +215,29 @@ CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 
 
+📺央视频道📺,#genre#
+CCTV-1 綜合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.1
+CCTV-2 財經,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13
+CCTV-3 綜藝,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14
+CCTV-4 中文國際（亞）,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv4/?spm=C28340.PKIUk5AmVMT8.ExidtyEJcS5K.15
+CCTV-5 體育,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5/?spm=C28340.PNR96hKp8fYJ.ExidtyEJcS5K.16
+CCTV-5+ 體育賽事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5plus/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.17
+CCTV-6 電影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.18
+CCTV-7 國防軍事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv7/?spm=C28340.PTEkg7XmjUgN.ExidtyEJcS5K.19
+CCTV-8 電視劇,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv8/?spm=C28340.PkZipr7VceJI.ExidtyEJcS5K.20
+CCTV-9 紀錄,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvjilu/?spm=C28340.PQEMFbwOfB3S.ExidtyEJcS5K.21
+CCTV-10 科教,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv10/?spm=C28340.PpiaYs0TLjHK.ExidtyEJcS5K.22
+CCTV-11 戲曲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv11/?spm=C28340.PMvpCBX0AtTu.ExidtyEJcS5K.23
+CCTV-12 社會與法,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv12/?spm=C28340.PrG0h7df8V0a.ExidtyEJcS5K.24
+CCTV-13 新聞,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv13/?spm=C28340.Pi47lDigOTVF.ExidtyEJcS5K.25
+CCTV-14 少兒,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvchild/?spm=C28340.POZbQEOQYmoL.ExidtyEJcS5K.26
+CCTV-15 音樂,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv15/?spm=C28340.PKJ5WKItuH8E.ExidtyEJcS5K.27
+CCTV-16 奧林匹克,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv16/?spm=C28340.PlzJnpThRAqb.ExidtyEJcS5K.28
+CCTV-17 農業農村,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/?spm=C28340.PQ1NrVkX5nqY.ExidtyEJcS5K.29
+CCTV-4 中文國際（歐）,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctveurope/index.shtml?spm=C28340.Pu9puX3MPgG4.ExidtyEJcS5K.30
+CCTV-4 中文國際（美）,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvamerica/?spm=C28340.PR1Y0pj2YGeB.ExidtyEJcS5K.31
+
+
 
 
 
@@ -290,6 +313,9 @@ GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 东莞生活咨询,webview://https://dgrtv.sun0769.com/online/280.html
 东莞新闻综合,webview://https://dgrtv.sun0769.com/online/279.html
 江门综合,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
+
+开平综合,webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
+
 河源综合,webview://https://www.hyrtv.cn/itv/zhds/
 河源生活,webview://https://www.hyrtv.cn/itv/ggds/
 清远新闻综合,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=1
@@ -348,8 +374,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 韶关新闻综合,webview://https://live.sgmsw.cn/hls/lhx1FUeZg/playlist.m3u8
 韶关新闻综合,webview://https://www.sgmsw.cn/mobile/tvinfo?id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 
-江门侨乡生活,webview://http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
-开平综合,webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
 
 五华综合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
 五华综合,webview://https://kmcxmpvzb.vzan.com/live/page/1448741529?v=1745716308000
@@ -758,7 +782,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 凤凰卫视中文台,webview://https://m.345iptv.com/?act=play&tid=tv&id=20
 凤凰卫视资讯台,webview://https://m.345iptv.com/?act=play&tid=tv&id=21
 
-翡翠,webview://https://live.yes2049.com/channels/tvb-jade/
 
 
 
@@ -794,12 +817,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&tid=gt&id=1
-
-
-
-
-
-
 
 
 
@@ -879,14 +896,14 @@ NBS Korea Agricultural Broadcasting (720p),https://media.joycorp.co.kr:4443/live
 🇷🇴罗马尼亚Kanal Jadid,http://iptv.zkbhj.com/tv/url/go?id=fb81bb9b43e59961094aa63269613455f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
 🇿🇦南非Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 🇿🇦南非KZNTV,http://iptv.zkbhj.com/tv/url/go?id=023c6f5c22ab16bc1522811c64e2ee48f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-🇱🇦老挝Hmong Star TV,ebview://hhttp://iptv.zkbhj.com/tv/url/go?id=4feaf426ab2c3414a12910e0c7b7377ef2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-🇮🇪爱尔兰PTE,ebview://hhttp://iptv.zkbhj.com/tv/url/go?id=d4dd1ef144307e03186671c87f7bd80cf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-🇮🇷伊朗SL 2,ebview://hhttp://iptv.zkbhj.com/tv/url/go?id=40d00fa8b0851918ea131a8d3516326ef2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-🇦🇺澳大利亚2GB SYDNEY,ebview://hhttp://iptv.zkbhj.com/tv/url/go?id=09f8e2b6f395bdde601a600466f56558f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-🇷🇺俄罗斯Zvezda TV,ebview://hhttp://iptv.zkbhj.com/tv/url/go?id=6414b076391433933457f71277ba6947f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-🇯🇵日本日テレNEWS24,ebview://hhttp://iptv.zkbhj.com/tv/url/go?id=729942d34e8518d7d5d61c380136549bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-🇪🇸西班牙DW Español Ⓢ,ebview://hhttps://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-🇲🇽墨西哥Alcarria TV,ebview://hhttp://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+🇱🇦老挝Hmong Star TV,ebview://http://iptv.zkbhj.com/tv/url/go?id=4feaf426ab2c3414a12910e0c7b7377ef2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+🇮🇪爱尔兰PTE,ebview://http://iptv.zkbhj.com/tv/url/go?id=d4dd1ef144307e03186671c87f7bd80cf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+🇮🇷伊朗SL 2,ebview://http://iptv.zkbhj.com/tv/url/go?id=40d00fa8b0851918ea131a8d3516326ef2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+🇦🇺澳大利亚2GB SYDNEY,ebview://http://iptv.zkbhj.com/tv/url/go?id=09f8e2b6f395bdde601a600466f56558f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+🇷🇺俄罗斯Zvezda TV,ebview://http://iptv.zkbhj.com/tv/url/go?id=6414b076391433933457f71277ba6947f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+🇯🇵日本日テレNEWS24,ebview://http://iptv.zkbhj.com/tv/url/go?id=729942d34e8518d7d5d61c380136549bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+🇪🇸西班牙DW Español Ⓢ,ebview://https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+🇲🇽墨西哥Alcarria TV,ebview://http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 🇮🇹意大利Food Network,https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 🇮🇶伊拉克Dijlah TV,https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
 🇫🇮芬兰Alfa Ⓢ,https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
