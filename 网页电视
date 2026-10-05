@@ -279,9 +279,14 @@ CCTV-4 中文國際（美）,webview://https://big5.cctv.com/gate/big5/tv.cctv.c
 
 广东频道,#genre#
 
-广东珠江,webview://https://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
+
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+广东珠江,webview://https://m.345iptv.com/?act=play&token=557cc3266d4d1cf51d6ac997dd963de9&tid=itv&id=5
+广东珠江,webview://,webview://https://www.345iptv.com/?act=play&tid=tv&id=9
+
+
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
 广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
 广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
@@ -328,9 +333,8 @@ GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 韶关新闻综合,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.HGiuAr&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 
 
-珠江台,webview://https://www.tvbox123.com/tw/tv/zhujiangpindao.html
-珠江台,http://cdn2.163189.xyz/163189/gdzj
-珠江台,webview://https://m.345iptv.com/?act=play&token=557cc3266d4d1cf51d6ac997dd963de9&tid=itv&id=5
+
+
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
 广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
@@ -778,7 +782,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 
-🏵️港台🏵️,#genre#
+🏵️港台,#genre#
 凤凰卫视中文台,webview://https://m.345iptv.com/?act=play&tid=tv&id=20
 凤凰卫视资讯台,webview://https://m.345iptv.com/?act=play&tid=tv&id=21
 
@@ -793,9 +797,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 明珠台,webview://https://m.345iptv.com/?act=play&tid=tv&id=27
 
-珠江,webview://https://m.345iptv.com/?act=play&tid=tv&id=9
-
-
 
 
 翡翠台,webview://https://www.345iptv.com/?act=play&tid=tv&id=24
@@ -806,8 +807,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 明珠台,webview://https://www.345iptv.com/?act=play&tid=tv&id=27
 
-珠江,webview://https://www.345iptv.com/?act=play&tid=tv&id=9
-
 
 
 翡翠台,webview://https://345iptv.com/?act=play&tid=gt&id=5
@@ -817,11 +816,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&tid=gt&id=1
-
-
-
-
-
 
 
 有线新闻,webview://https://m.345iptv.com/?act=play&tid=tv&id=29
@@ -835,7 +829,7 @@ TVB PLUS,webview://https://m.345iptv.com/?act=play&tid=tv&id=26
 民视新闻台,webview://https://www.345iptv.com/?act=play&tid=gt&id=50
 
 美亚电影台,webview://https://www.tvbox123.com/cn/tv/meiyadianying.html
-翡翠台台,webview://https://www.tvbox123.com/cn/tv/tvbfeicuitai.html
+翡翠台,webview://https://www.tvbox123.com/cn/tv/tvbfeicuitai.html
 
 
 
