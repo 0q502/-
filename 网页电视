@@ -362,7 +362,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 广州影视,webview://https://app.gztv.com/ptusshare/#/tvDetail?code=3006
 
 
-粤语电影,webview://http://m.douyu.com/1226741
+粤语电影,webview://http://www.douyu.com/1226741
 粤语电影,webview://https://www.douyu.com/1226741?dyshid=0-4b8dc735fc136831f9a8ee0800091701
 
 东莞新闻综合,webview://http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
@@ -793,7 +793,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 无线新闻,webview://https://m.345iptv.com/?act=play&tid=tv&id=25
 
-无线新闻HK,webview://https://news.tvb.com/tc/live/C
+
 
 明珠台,webview://https://m.345iptv.com/?act=play&tid=tv&id=27
 
@@ -803,7 +803,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 无线新闻,webview://https://www.345iptv.com/?act=play&tid=tv&id=25
 
-无线新闻HK,video://https://news.tvb.com/tc/live/C
+
 
 明珠台,webview://https://www.345iptv.com/?act=play&tid=tv&id=27
 
@@ -828,8 +828,13 @@ TVB PLUS,webview://https://m.345iptv.com/?act=play&tid=tv&id=26
 台视新闻台,webview://https://m.345iptv.com/?act=play&tid=gt&id=47
 民视新闻台,webview://https://www.345iptv.com/?act=play&tid=gt&id=50
 
-美亚电影台,webview://https://www.tvbox123.com/cn/tv/meiyadianying.html
-翡翠台,webview://https://www.tvbox123.com/cn/tv/tvbfeicuitai.html
+無綫新聞HK,webview://https://news.tvb.com/tc/live/C
+無綫新聞HK,webview://https://news.tvb.com/tc/live/83
+翡翠台HK,webview://https://news.tvb.com/tc/live/81
+翡翠台HK,webview://https://news.tvb.com/tc/live/82
+
+
+
 
 
 
