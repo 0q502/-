@@ -846,16 +846,14 @@ TVB PLUS,webview://https://m.345iptv.com/?act=play&tid=tv&id=26
 翡翠台HK,webview://https://news.tvb.com/tc/live/81
 翡翠台HK,webview://https://news.tvb.com/tc/live/82
 
-tvb,webview://https://t14.iptv200.com:8443/1ive/tvbfc.fIv?sign=1792665043-98965d9a20a97430a3fe91a4cdb6bd60
-ttvb,https://t14.iptv200.com:8443/1ive/tvbfc.fIv?sign=1792665043-98965d9a20a97430a3fe91a4cdb6bd60
 
-bnm,https://prd-vcache.edge-global.akamai.tvb.com/_cl/slocalr2526/_c/ott_C_h2641_op/bks1_f/3/a12&002/index_admarker.m3u8
 
-同,webview://tvb,webview://https://t14.iptv200.com:8443/1ive/tvbfc.fIv?sign=1792665043-98965d9a20a97430a3fe91a4cdb6bd60
-1同,https://t14.iptv200.com:8443/1ive/tvbfc.fIv?sign=1792665043-98965d9a20a97430a3fe91a4cdb6bd60
-
+动物台,#genre#
+🇳🇬动物台尼日利亚Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+🇿🇦动物台南非Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 国际,#genre#
+
 Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
 France 24 Français,https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
