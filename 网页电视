@@ -1,5 +1,16 @@
 网页电视,#group#
 
+动物台,#genre#
+
+CCTV9,webview://https://tv.cctv.com/live/cctvjilu/
+
+
+🇳🇬动物台尼日利亚Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+🇿🇦动物台南非Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+
+
+
 央视频道,#genre#
 CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 CCTV2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
@@ -863,9 +874,7 @@ TVB PLUS,webview://https://m.345iptv.com/?act=play&tid=tv&id=26
 
 
 
-动物台,#genre#
-🇳🇬动物台尼日利亚Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
-🇿🇦动物台南非Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
 
 国际,#genre#
 
