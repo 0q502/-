@@ -241,6 +241,9 @@ CCTV-4 中文國際（美）,webview://https://big5.cctv.com/gate/big5/tv.cctv.c
 西藏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226710/1.m3u8
 
 
+
+卫视4K,#genre#
+
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 深圳卫视4K,http://livepull-tcyzb.sztv.com.cn/4KBack.m3u8
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
