@@ -822,7 +822,9 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 凤凰资讯1,http://ccav.zone.id/php/fh.php?id=1
 凤凰中文1,http://ccav.zone.id/php/fh.php?id=2
 
-
+凤凰中文台,https://raw.githubusercontent.com/TvWasm/cjs/main/k-web/ku9/js/fenghuang.js?id=pcc
+凤凰资讯台,https://raw.githubusercontent.com/TvWasm/cjs/main/k-web/ku9/js/fenghuang.js?id=pin
+凤凰香港台,https://raw.githubusercontent.com/TvWasm/cjs/main/k-web/ku9/js/fenghuang.js?id=phk
 
 凤凰卫视中文台,webview://https://www.fengshows.com/live
 
