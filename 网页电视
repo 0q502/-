@@ -253,7 +253,7 @@ CCTV-4 中文國際（美）,webview://https://big5.cctv.com/gate/big5/tv.cctv.c
 
 
 
-高4K,#genre#
+4K,#genre#
 
 CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
 
@@ -324,7 +324,7 @@ CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
 
 
 
-珠江频道,https://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+珠江频道,,webview://https://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 
 
