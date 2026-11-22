@@ -917,55 +917,121 @@ TVB翡翠台,webview://http://m.migutv.one/gangaotai/tvb.html
 
 
 
-翡翠台,https://fcheck-stream-pull-test.wpscdn.cn/live/FC-BvLLP1S3bOvijFKQQX9kxGMapfVZKRG9zyy5nmAAlvBB5Q8UlJdzFxCQ5eIwDGmkWBdRsfy709Fb5zNi.flv
+
+
+凤凰中文台,http://xxxx=MytvPhoenixChinese
+凤凰资讯台,http://xxxx=MytvPhoenixInfo
+凤凰香港台,http://xxxx=MytvPhoenixHK
+翡翠台,http://xxxx=MytvTvbJade
+翡翠台(美加·东岸时区),http://xxxx=TVBJEAST
+翡翠台(美加·西岸时区),http://xxxx=TVBJWEST
+翡翠台(欧·新时区),http://xxxx=TVBJAUS
+翡翠台(英国时区),http://xxxx=TVBJUK
+TVB Plus,http://xxxx=MytvTvbPlus
+TVB无线新闻台,http://xxxx=MytvTvbNews
+TVB明珠台,http://xxxx=MytvTvbPearl
+TVB生活台,http://xxxx=tvblifechannel
+TVB星河粤语,http://xxxx=TVBXHHK
+TVB星河国语,http://xxxx=TVBXHCN
+星空卫视,http://xxxx=XingKong
+TVB1,http://xxxx=TVB1US
+TVBJ1,http://xxxx=TVBJ1West#http://xxxx=TVBJ1US
+TVB Drama 翡翠劇集台,http://xxxx=TVBDramaWest#http://xxxx=TVBDramaUS
+TVB Pearl Drama 明珠劇集台,http://xxxx=TVBPearlDramaUS
+TVB娱乐新闻,http://xxxx=MytvTvbEntertainment
+TVB E 翡翠娛樂台,http://xxxx=TVBEWest#http://xxxx=TVBEUS
+Astro AEC,http://xxxx=AstroAECHD
+Astro QJ,http://xxxx=AstroQuanJiaHD
+Astro AOD,http://xxxx=AstroAOD311HDHK#http://xxxx=AstroAOD311HDCN
+Astro 欢喜台,http://xxxx=AstroHuaHeeDaiHD
+娱家台,http://xxxx=HubVVDrama
+都会台,http://xxxx=HubECity
+TVB 千禧经典,http://xxxx=TVBClassicMY
+天映频道(国),http://xxxx=CelestialClassicMYCN
+天映频道(粤),http://xxxx=CelestialClassicMYML
+天映经典,http://xxxx=MytvCCM
+TVB功夫台,http://xxxx=AsiaActionCN
+TVB功夫台,http://xxxx=AsiaActionHK
+美亚电影,http://xxxx=MytvMeiyaMovieEN
+美亚电影,http://xxxx=MytvMeiyaMovieCN
+龙祥电影,http://xxxx=LSTIME
+中国电影频道,http://xxxx=MytvChinaMovie
+POP C,http://xxxx=MytvPopC
+黃金華劇台,http://xxxx=MytvGoldenChineseDrama
+Now新闻台,http://xxxx=Nowtvnews
+Now直播台,http://xxxx=Nowtvlive
+Now财经台,http://xxxx=Nowtvfinance
+Now爆谷星影台,http://xxxx=NowBaoguSuperstarsHKHD#http://xxxx=NowBaoguSuperstarsCNHD
+Now爆谷台,http://xxxx=NowBaoguMoviesHKHD#http://xxxx=NowBaoguMoviesCNHD
+Now華劇台,http://xxxx=NowChineseDramaChannelHKBG
+Now劇集台,http://xxxx=ViuchannelHKBG
+NowJelli紫金国际,http://xxxx=NowJelliHK
+Now630体育台,http://xxxx=NowSports630
+NowSports641,http://xxxx=NowSportsCH641HK
+NowSportsPlus,http://xxxx=NowSports680
+NowSports1,http://xxxx=NowSports1HK
+NowSports2,http://xxxx=NowSports2HK
+NowSports3,http://xxxx=NowSports3HK
+NowSports4,http://xxxx=NowSports4HK
+NowSports5,http://xxxx=NowSports5HK
+NowSports6,http://xxxx=NowSports6HK
+NowSports7,http://xxxx=NowSports7HK
+NowSports英超1台,http://xxxx=NowSportsPremierLeague1HK
+NowSports英超2台,http://xxxx=NowSportsPremierLeague2HK
+NowSports英超3台,http://xxxx=NowSportsPremierLeague3HK
+NowSports英超4台,http://xxxx=NowSportsPremierLeague4HK
+NowSports英超5台,http://xxxx=NowSportsPremierLeague5HK
+NowSports英超6台,http://xxxx=NowSportsPremierLeague6HK
+bEINSports1,http://xxxx=bEINSports1HK
+bEINSports2,http://xxxx=bEINSports2HK
+bEINSports3,http://xxxx=bEINSports3HK
+NBA TV,http://xxxx=NBATVHK
+HOY 76,http://xxxx=HOYChannel76#http://xxxx=hoych76
+HOY 77,http://xxxx=HOYChannel77#http://xxxx=hoych77
+HOY 78,http://xxxx=HOYChannel78#http://xxxx=hoych78
+ViuTV,http://xxxx=ViuTvChannel
+ViuTV6,http://xxxx=ViuTv6Channel
+RTHK 31,http://xxxx=rthk31hd
+RTHK 32,http://xxxx=rthk32hd
+新时代1,http://xxxx=FairchildTV
+新时代2,http://xxxx=Fairchild2TV
+城市电视,http://xxxx=Talentvision
+中旺电视,http://xxxx=ZWTV
+FashionBox,http://xxxx=MytvFashionBox
+tvN,http://xxxx=MytvTvn
+Kix,http://xxxx=MytvKIX
+ROCK超级娱乐,http://xxxx=MytvRockAction
+ROCK综艺娱乐,http://xxxx=MytvRockEntertainment
+HKC18台,http://xxxx=HKC18
+C18跑马,http://xxxx=Mytv18Channel
+88跑马台,http://xxxx=88horseracing
+28AI智慧赛马,http://xxxx=aihorseracing
+AXN,http://xxxx=MytvAXN
+Animax,http://xxxx=MytvAnimaxC
+Thrill,http://xxxx=MytvThrill
+ZooMoo,http://xxxx=MytvZooMoo
+Nickelodeon,http://xxxx=MytvNickeledeon
+NickJr儿童频道,http://xxxx=MytvNickJr
+DreamWorks,http://xxxx=DreamWorksHK
+亚洲剧台,http://xxxx=MytvAsianDrama
+华语剧台,http://xxxx=MytvChineseDrama
+黄金翡翠台,http://xxxx=MytvGoldenJade
+MyTV千禧经典台,http://xxxx=MytvClassic
+TVBSuperFree,http://xxxx=MytvSuperFree
+Hands UP,http://xxxx=MytvKidsChannel
+戏曲台,http://xxxx=MytvOperaChannel
+粤语片台,http://xxxx=MytvCantoneseChannel
+亚洲综合娱乐台,http://xxxx=MYTVASIAVARIETY
+mySUPER直播足球2台,http://xxxx=MytvSports2
+mySUPER直播足球3台,http://xxxx=MytvSports3
+mySUPER直播足球4台,http://xxxx=MytvSports4
+mySUPER直播足球5台,http://xxxx=MytvSports5
+mySUPER直播足球6台,http://xxxx=MytvSports6
+年代Much,http://xxxx=eramuch
 
 
 
-无线新闻台,https://fcheck-stream-pull-test.wpscdn.cn/live/WX-iVDCqjRV6K97cwYylZXETIhLYoOZ1921faIA5xq1UiJnOyzht65zefiamEnUxyYTrKlx7ofZo5JQIoVq.flv
 
-
-无线明珠台英语,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/mz-mddei9SE4s0zj8HEbn8tBnrtWDU9zjgfHU6JcWXOfwluNR2MDkSZeCXZBOupjnnWB5k1TvFWJChkJbq6.flv
-
-
-hk无线新闻,
-
-
-
-HOY76台,https://fcheck-stream-pull-test.wpscdn.cn/live/HOY76-YkDHclXTJ309FPrnZcbdw1IZ1jH06sMiaONsLMyySC0kPA0kArd8UWAHDZZuHJWVHO1tedcuOo2xn20m.flv
-
-
-HOY77台,https://fcheck-stream-pull-test.wpscdn.cn/live/HOY77-0rDc8FozrC9trSEhgHQeirO88ElWZOF5KfFK5zJSNYNWmCEMGKKR9kLjJICWCnYreQf6KPRVkWiUQLFf.flv
-
-
-
-HOY78台,https://fcheck-stream-pull-test.wpscdn.cn/live/HOY78-6PHHml8w6FvdgR7AF1IoFRnrVmR2GsMyCwLBSIXD28FnKcjnqm7NaCKvHnn8BJlTrKX4XHRBQ5GwzqLJ.flv
-
-
-凤凰香港台,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/fhxg-NpmWCJUXg5mHnVx7DxmiyCrNGMICZQrcqzOOFMXXCOY00h8jA0A7ps9jlYE4aRY1lOi6sYSHrLzzBMHv.flv
-
-凤凰资讯台,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/fhzx-FUELRRDSMjF56EtzQmI2w3fvc9vW5DVmd44Ao7YCz1hVDkKyG4vPqpDFX0NjnnA1zuZNSAoli0g1outY.flv
-凤凰中文台,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/fhzw-XhBtvRMDDO9YJ1UYzEe869mPWqpEZ2ZeuCcKoNrc6SbfHh9fz5ooFWJQkZObsjF0PcbZHPt4pr7wfsUh.flv
-
-港台电视31,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/31-xL3VwhqCDNAop22L8HlkpNEX2FCXHmdtNv8V6s4IGzgdj4llUjQ6qllwaEyE4t9EOqOh5IpNfLTmuUuG.flv
-
-港台电视32,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/32-eWeJ09h6oF4h4tpTcLru0dSFExlH8DGJ7saFGxAbt7SCakQLcvr2hKv2m04oVwlrOxPY1LB4GafCgHd3.flv
-
-
-
-港台电视33,https://fcheck-stream-pull-test.wpscdn.cn/live/RK33-FAbiAJBS1ZALn7NnH6iAJIPhSKGAzA5g2aHiTjxuNCJ3o3OGd0EttiV3FRmNZ5ydMT27srTX00qeMH06.flv
-
-
-
-港台电视34,https://fcheck-stream-pull-test.wpscdn.cn/live/RK34-UC1YOrZaXDAmzRGwBURINjTD9vrRX6Rp1s15kKboEKMTzO4oSGDP4L2HPBaAfHuxgyxohpE2iSVAisOD.flv
-
-VIUTV，https://pull-mpeg-hs-cny-f5.douyincdn.com/live/viu-1WpQedL8WJaZKhj2PONLCEJ63JVlcncTqknAqIOpFmMOU0y7YlvyEfsHBqIaMLQdEXmHLGzsTWco4J4b.flv
-
-VIUTV6，https://pull-mpeg-hs-cny-f5.douyincdn.com/live/viu6-hDt1OMH7VGtvhYO39p86RuMntEEDXeKseoGXcbsrDLgRAhg2K6IYmsbZ5GcJvCAIyEVQf6DPxLINnCF6.flv
-
-
-香港有线18台,http://meeting.lnrccdn.com/live/NjKftVLDFGbF2YHAXgasFlau4khb9Kz4xQAa8OwmxsdnUDjAzbHFlJeyCmFQT8M9fqL5sMc7dBwKydH9.flv
-
-TVB18台,http://meeting.lnrccdn.com/live/UnwNCix7ljQLQlCNvQtMfE2xPdNzYeSlbmVw8Qs6QUp985cCF5xgoiWz0ACvodOE8h6Hnjj5xBvSjnYY.flv
 
 
 
