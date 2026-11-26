@@ -916,6 +916,18 @@ TVB翡翠台,webview://http://m.migutv.one/gangaotai/tvb.html
 翡翠台,webview://https://cdn3.indevs.in/stream/tvb/fct/
 
 
+
+
+翡翠台,http://172.16.149.192:8060/live 1350_7500.m3u8 
+明珠台,http://172.16.149.192:8060/live 1351_7500.m3u8 
+凤凰卫视,http://172.16.149.192:8060/ live/1353_7500.m3u8
+
+
+
+
+
+
+
 翡翠台,fcbus://34VSfgDWU6Mz8MaWiszUAeemSUMzdwEbdrXdopgjHfYih8krWk
 翡翠台-线路二,fcbus://4JfzT21e6tzrD7jwEuQ1hFREVddwhJtFTpBzZn4R2TRowhKL8a
 翡翠台-线路二,fcbus://3pVLUQ1C7xvDzyZ96AYeGiwBWBzHWm4DZBPz4cHxZsMLJtqAc2
